@@ -1,0 +1,3 @@
+C:/Users/gluv/CLionProjects/Spec-Ray/cmake-build-debug/CMakeFiles/Spec_Ray.dir
+C:/Users/gluv/CLionProjects/Spec-Ray/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gluv/CLionProjects/Spec-Ray/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+# ninja log v5
+2	2894	7381047078604574	CMakeFiles/Spec_Ray.dir/main.cu.obj	9dd9a26a1fa2e1d0
+2895	4495	7381047094556133	CMakeFiles/Spec_Ray.dir/cmake_device_link.obj	e7e37c853ea7b6c3
+4495	4712	7381047096828348	Spec_Ray.exe	2238e78411b19707
+2	2749	7381047782655859	CMakeFiles/Spec_Ray.dir/main.cu.obj	9dd9a26a1fa2e1d0
+2749	4233	7381047797667814	CMakeFiles/Spec_Ray.dir/cmake_device_link.obj	e7e37c853ea7b6c3
+4233	4324	7381047798390351	Spec_Ray.exe	2238e78411b19707
