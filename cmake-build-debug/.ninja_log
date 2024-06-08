@@ -1,7 +1,11 @@
 # ninja log v5
-2	2894	7381047078604574	CMakeFiles/Spec_Ray.dir/main.cu.obj	9dd9a26a1fa2e1d0
-2895	4495	7381047094556133	CMakeFiles/Spec_Ray.dir/cmake_device_link.obj	e7e37c853ea7b6c3
-4495	4712	7381047096828348	Spec_Ray.exe	2238e78411b19707
-2	2749	7381047782655859	CMakeFiles/Spec_Ray.dir/main.cu.obj	9dd9a26a1fa2e1d0
-2749	4233	7381047797667814	CMakeFiles/Spec_Ray.dir/cmake_device_link.obj	e7e37c853ea7b6c3
-4233	4324	7381047798390351	Spec_Ray.exe	2238e78411b19707
+5	5889	7395712366451769	CMakeFiles/Spec_Ray.dir/main.cu.obj	9dd9a26a1fa2e1d0
+5891	6940	7395712377129423	CMakeFiles/Spec_Ray.dir/cmake_device_link.obj	142e397ba451948c
+2	109	7395724472856220	build.ninja	bc2c4a6b74f397c2
+6940	7087	7395712378362477	Spec_Ray.exe	fad6b5389341b56d
+12	8038	7395628699343947	CMakeFiles/Spec_Ray.dir/interface/pipes.cu.obj	49b45476504ef1bd
+3	219	7395724472856220	build.ninja	bc2c4a6b74f397c2
+9	5027	7395724523107821	CMakeFiles/Spec_Ray.dir/src/interface/pipes.cu.obj	4286718e758d256a
+2	5493	7395724527657982	CMakeFiles/Spec_Ray.dir/src/main.cu.obj	63ad928ac4cb8b8b
+5496	6938	7395724542336821	CMakeFiles/Spec_Ray.dir/cmake_device_link.obj	72c872a8dad1ba28
+6938	7174	7395724544339063	Spec_Ray.exe	36468fb2d7b31b60
